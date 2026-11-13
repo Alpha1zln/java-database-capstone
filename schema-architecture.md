@@ -30,6 +30,14 @@
 ---
 ---
 
+## Architecture Diagram
+
+![Smart Clinic Three-Tier Architecture Diagram](img/archr_dig/simplified-architecture-diagram.png)
+
+
+---
+---
+
 
 ## Section 2: Numbered flow of data and control (Steps 1 to 7) 
 ### Based directly on the provided architecture diagram:
